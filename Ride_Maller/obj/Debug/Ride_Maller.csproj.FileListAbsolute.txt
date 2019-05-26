@@ -1,0 +1,10 @@
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\bin\Debug\Ride_Maller.exe.config
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\bin\Debug\Ride_Maller.exe
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\bin\Debug\Ride_Maller.pdb
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.Form1.resources
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.Properties.Resources.resources
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.csproj.GenerateResource.cache
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.exe
+D:\Disk D old\projects VS c++\Ride_Maller\Ride_Maller\obj\Debug\Ride_Maller.pdb
